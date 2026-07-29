@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Models
+*.pkl
+
+# Dataset
+data/
+notebooks/data/*.csv
+
+# VS Code
+.vscode/
